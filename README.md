@@ -1,7 +1,5 @@
 # Data-Visualization
 
-Tableau: https://public.tableau.com/app/profile/jasmine.luo/viz/CabCompanyInvestment/InvestmentStory?publish=yes
-
 Plotly webpage (Analysis of Video Game Sales)
 ![Screenshot](Data.png)
 ![Screenshot](Platform.png)
